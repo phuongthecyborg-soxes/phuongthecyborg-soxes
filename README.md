@@ -3,7 +3,7 @@
 AI harness engineer @ [soXes](https://soxes.ch)
 
 ```text
-agents write code -> I set the rules
+agents write code → I set the rules
 ```
 
 ---
